@@ -1,5 +1,4 @@
-## Hi there 👋
-my previous github account and projects -> https://github.com/mubinanusratullayeva/
+
 
 <!--
 **fullStack-devmax/fullStack-devmax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
